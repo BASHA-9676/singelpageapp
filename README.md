@@ -1,2 +1,2 @@
 # singelpageapp
-my info
+my self info
